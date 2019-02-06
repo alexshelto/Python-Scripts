@@ -1,0 +1,5 @@
+<?xml version"1.0" enconding="UTF-8"?>
+<Response>
+    <Play>http://ENTER.YOUR.XMLlink</Play> 
+    <Record timeout="10" transcirbe="false" />
+</Response>
