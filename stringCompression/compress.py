@@ -23,7 +23,7 @@ def compress(_str):
     n = 0
 
     while(n < endLoop):
-        if(_str[n] = str[n+1])
+        if(_str[n] == str[n+1])
         count += 1
 
         else
